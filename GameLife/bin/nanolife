@@ -1,0 +1,7 @@
+#!/home/jaxy/Documents/JeuxVie/GameLife/GameLife/bin/python
+# EASY-INSTALL-DEV-SCRIPT: 'nanolife==1.0.3','nanolife'
+__requires__ = 'nanolife==1.0.3'
+__import__('pkg_resources').require('nanolife==1.0.3')
+__file__ = '/home/jaxy/Documents/JeuxVie/GameLife/bin/nanolife'
+with open(__file__) as f:
+    exec(compile(f.read(), __file__, 'exec'))
